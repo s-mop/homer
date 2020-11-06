@@ -1,0 +1,4 @@
+# AutoConfiguration
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+org.smop.duplex.RabbitConfig,\
+org.smop.duplex.AsyncByMQInterceptor
